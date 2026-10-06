@@ -1,0 +1,341 @@
+{
+  "brand": {
+    "name": "Dr Rahul Sharma",
+    "tagline": "Cosmetic & Restorative Dentistry",
+    "shortName": "DRS",
+    "logoText": "DRS",
+    "primaryColor": "#0d7e4f",
+    "secondaryColor": "#8b6f47",
+    "accentColor": "#f5f3f0",
+    "fontFamily": "Inter, sans-serif"
+  },
+  "contact": {
+    "phone": "+91 98765 43210",
+    "whatsapp": "+91 98765 43210",
+    "email": "dr.rahul@smilecare.com",
+    "address": "SmileCare Dental Studio, MG Road, Bengaluru 560001",
+    "emergencyPhone": "+91 98765 43210",
+    "openingHours": "9:00 AM - 8:00 PM (Mon-Sat) | Sun: 10 AM - 5 PM",
+    "parking": "Free parking available",
+    "googleRating": "4.9",
+    "reviewCount": "1,324"
+  },
+  "doctor": {
+    "name": "Dr Rahul Sharma",
+    "title": "BDS, MDS (Prosthodontics)",
+    "credentials": ["BDS from Delhi University", "MDS in Prosthodontics from AIIMS", "Certified in Digital Smile Design", "Cosmetic Dentistry Specialist"],
+    "experience": "15 Years",
+    "bio": "Dr Rahul Sharma has transformed smiles for over 15 years with a focus on precision, comfort, and natural results. His patient-first approach and commitment to the latest dental technology have earned him recognition as one of the most trusted cosmetic dentists in Bengaluru.",
+    "image": "https://images.unsplash.com/photo-1612349317150-e88cc8c34f8d?auto=format&fit=crop&w=800&q=80"
+  },
+  "hero": {
+    "eyebrow": "Premium Cosmetic & Restorative Dentistry",
+    "title": "Get the smile you've always wanted, from a dentist you can trust.",
+    "description": "Dr Rahul Sharma combines 15 years of expertise with cutting-edge technology to deliver transformative results. Every smile is custom-designed for your unique beauty.",
+    "ctaPrimary": "Book Your Free Consultation",
+    "ctaSecondary": "Watch Dr Rahul's Intro",
+    "imageAlt": "Dr Rahul Sharma",
+    "imageSrc": "https://images.unsplash.com/photo-1651076066302-41c4ab1b5e4e?auto=format&fit=crop&w=800&q=80",
+    "badges": ["15+ Years Experience", "1200+ Happy Patients", "Same-Day Appointments"],
+    "floatingBadges": {
+      "googleRating": {
+        "show": true,
+        "rating": "4.9",
+        "reviewCount": "1,324"
+      },
+      "trustedPatients": {
+        "show": true,
+        "count": "1,300+",
+        "label": "Trusted Patients"
+      },
+      "experience": {
+        "show": true,
+        "years": "15",
+        "label": "Years Experience"
+      },
+      "sameDayAppointment": {
+        "show": true,
+        "text": "Same Day Appointment"
+      },
+      "availableToday": {
+        "show": true,
+        "text": "Available Today"
+      },
+      "consultationFee": {
+        "show": false,
+        "fee": "₹500",
+        "label": "Consultation Fee"
+      }
+    }
+  },
+  "trustMetrics": {
+    "items": [
+      { "label": "Google Rating", "value": "4.9 ★★★★★" },
+      { "label": "Reviews", "value": "1,324+" },
+      { "label": "Years Experience", "value": "15+" },
+      { "label": "Patients Treated", "value": "18,000+" },
+      { "label": "Certification", "value": "ISO 9001:2015" },
+      { "label": "Insurance", "value": "All Major Plans" }
+    ]
+  },
+  "trustSection": {
+    "eyebrow": "Why Patients Trust Us",
+    "title": "Your Trust Is Our Greatest Achievement",
+    "intro": "Every credential, certification, and patient review reflects our commitment to excellence.",
+    "items": [
+      {
+        "icon": "Star",
+        "title": "Google Reviews",
+        "description": "4.9 rating with 1,324+ verified patient reviews",
+        "highlight": "4.9 ★★★★★"
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Verified Doctor",
+        "description": "Registered with Dental Council of India",
+        "highlight": "DCI Registered"
+      },
+      {
+        "icon": "Sparkles",
+        "title": "Sterilized Clinic",
+        "description": "Hospital-grade autoclave sterilization protocols",
+        "highlight": "ISO Certified"
+      },
+      {
+        "icon": "Zap",
+        "title": "Modern Equipment",
+        "description": "Latest dental technology for precise treatments",
+        "highlight": "State-of-Art"
+      },
+      {
+        "icon": "Shield",
+        "title": "Insurance Accepted",
+        "description": "All major insurance plans and cashless facility",
+        "highlight": "Cashless"
+      },
+      {
+        "icon": "Phone",
+        "title": "Emergency Support",
+        "description": "24/7 emergency dental care available",
+        "highlight": "24/7 Available"
+      },
+      {
+        "icon": "FileText",
+        "title": "Government Registration",
+        "description": "Fully registered healthcare facility",
+        "highlight": "Gov Registered"
+      },
+      {
+        "icon": "Award",
+        "title": "Medical Council",
+        "description": "Member of Indian Dental Association",
+        "highlight": "IDA Member"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "Meet Dr Rahul Sharma",
+    "title": "Your smile is my passion. Your comfort is my priority.",
+    "description": [
+      "With 15 years of dedicated practice and over 18,000 patients treated, Dr Rahul Sharma has earned a reputation for delivering exceptional results with genuine care.",
+      "His philosophy is simple: combine clinical excellence with a warm, patient-first approach. Every treatment is personalized, transparent, and designed to exceed expectations."
+    ],
+    "story": "Dr Rahul Sharma's journey began at Delhi University, where he discovered his passion for transforming lives through dentistry. After completing his MDS in Prosthodontics from AIIMS, he dedicated himself to mastering the art of cosmetic and restorative dentistry. Today, he's known for his gentle touch and exceptional results.",
+    "mission": "To provide world-class dental care that combines cutting-edge technology with genuine compassion, making every patient feel valued and every smile beautiful.",
+    "philosophy": "Every smile tells a story. I believe in listening first, treating second, and celebrating the transformation together.",
+    "education": [
+      { "year": "2008", "degree": "BDS", "institution": "Delhi University" },
+      { "year": "2012", "degree": "MDS Prosthodontics", "institution": "AIIMS, New Delhi" },
+      { "year": "2015", "degree": "Digital Smile Design Certification", "institution": "DSD Institute, Miami" }
+    ],
+    "awards": [
+      "Best Cosmetic Dentist 2023 - Indian Dental Association",
+      "Excellence in Prosthodontics 2021 - Dental Council of India",
+      "Top Rated Dentist 2020 - Google Reviews"
+    ],
+    "memberships": [
+      "Indian Dental Association (IDA)",
+      "Indian Prosthodontic Society (IPS)",
+      "International College of Prosthodontists (ICP)"
+    ],
+    "certifications": [
+      "Certified Digital Smile Designer",
+      "Implantology Specialist",
+      "Laser Dentistry Certified"
+    ],
+    "successNumbers": {
+      "patients": "18,000+",
+      "smiles": "15,000+",
+      "years": "15+",
+      "rating": "4.9"
+    },
+    "highlights": ["15+ Years of Excellence", "18,000+ Smile Transformations", "Digital Smile Design Expert", "Gentle, Comfortable Care"],
+    "imageAlt": "Dr Rahul Sharma in consultation",
+    "imageSrc": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=1000&q=80"
+  },
+  "differentiators": {
+    "eyebrow": "Why Choose Dr Rahul Sharma",
+    "title": "Built for your confidence, designed for your comfort.",
+    "intro": "What sets us apart from other practices.",
+    "items": [
+      { "icon": "Clock", "text": "Same-Day Appointments Available" },
+      { "icon": "Eye", "text": "Digital Smile Design & Preview" },
+      { "icon": "Zap", "text": "Pain-Free Treatment Guarantee" },
+      { "icon": "DollarSign", "text": "Transparent, Upfront Pricing" },
+      { "icon": "Shield", "text": "Hospital-Grade Sterilization" },
+      { "icon": "Smartphone", "text": "Latest Dental Technology" }
+    ]
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Cosmetic and Restorative Dentistry Excellence",
+    "intro": "From smile design to complete restoration, every service is delivered with precision and care.",
+    "items": [
+      { 
+        "title": "Cosmetic Veneers", 
+        "description": "Custom-crafted porcelain veneers for a flawless, natural-looking smile.", 
+        "icon": "Sparkles", 
+        "cta": "Book Appointment",
+        "treatmentTime": "2-3 visits",
+        "painLevel": "Minimal",
+        "recoveryTime": "1-2 days"
+      },
+      { 
+        "title": "Implant Restoration", 
+        "description": "Durable, lifelike implants that feel like your natural teeth.", 
+        "icon": "ShieldCheck", 
+        "cta": "Learn More",
+        "treatmentTime": "3-4 months",
+        "painLevel": "Low",
+        "recoveryTime": "1-2 weeks"
+      },
+      { 
+        "title": "Teeth Whitening", 
+        "description": "Professional whitening for a brighter, more confident smile.", 
+        "icon": "Smile", 
+        "cta": "Book Now",
+        "treatmentTime": "1 hour",
+        "painLevel": "None",
+        "recoveryTime": "Immediate"
+      },
+      { 
+        "title": "Root Canal Therapy", 
+        "description": "Gentle, precise treatment to save your natural tooth.", 
+        "icon": "HeartPulse", 
+        "cta": "Schedule",
+        "treatmentTime": "1-2 visits",
+        "painLevel": "Minimal",
+        "recoveryTime": "2-3 days"
+      }
+    ]
+  },
+  "patientJourney": {
+    "eyebrow": "Your Journey",
+    "title": "From First Consultation to Your New Smile",
+    "intro": "A clear, comfortable path to your dream smile.",
+    "steps": [
+      {
+        "step": "1",
+        "title": "Book Appointment",
+        "description": "Schedule your free consultation online or call us directly.",
+        "icon": "Calendar"
+      },
+      {
+        "step": "2",
+        "title": "Consultation",
+        "description": "Meet Dr Rahul, discuss your goals, and get a personalized treatment plan.",
+        "icon": "Users"
+      },
+      {
+        "step": "3",
+        "title": "Diagnosis",
+        "description": "Comprehensive examination with digital imaging and 3D scans.",
+        "icon": "Search"
+      },
+      {
+        "step": "4",
+        "title": "Treatment",
+        "description": "Expert care with the latest technology in a comfortable environment.",
+        "icon": "Sparkles"
+      },
+      {
+        "step": "5",
+        "title": "Recovery",
+        "description": "Gentle aftercare with follow-up support and guidance.",
+        "icon": "Heart"
+      },
+      {
+        "step": "6",
+        "title": "Follow-up",
+        "description": "Regular check-ins to ensure your smile stays perfect.",
+        "icon": "CheckCircle"
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Our Studio",
+    "title": "A Modern, Welcoming Space for Your Comfort",
+    "intro": "Every detail designed with your peace of mind in mind.",
+    "items": [
+      { "title": "Consultation Suite", "caption": "Relax in our calm, design-forward consultation room.", "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=900&q=80" },
+      { "title": "Digital Planning Studio", "caption": "See your smile before treatment begins.", "image": "https://images.unsplash.com/photo-1516549655169-df83a0774514?auto=format&fit=crop&w=900&q=80" },
+      { "title": "Treatment Room", "caption": "Modern equipment meets patient comfort.", "image": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5?auto=format&fit=crop&w=900&q=80" }
+    ]
+  },
+  "testimonials": {
+    "eyebrow": "Patient Stories",
+    "title": "Real Results, Real Smiles, Real Impact",
+    "intro": "Hear from patients whose smiles have been transformed.",
+    "items": [
+      { "quote": "Dr Rahul didn't just give me a new smile—he gave me confidence. The entire experience felt personalized and caring.", "author": "Priya M.", "role": "Veneer Patient" },
+      { "quote": "I was nervous about implants, but Dr Rahul made me feel comfortable from day one. The results are incredible.", "author": "Arun K.", "role": "Implant Patient" },
+      { "quote": "Transparent pricing, no surprises, and results that exceeded my expectations. I recommend him to everyone.", "author": "Anjali P.", "role": "Whitening Patient" }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Common Questions",
+    "title": "Everything You Need to Know",
+    "intro": "Get clarity before your first visit.",
+    "items": [
+      { "question": "Do you offer same-day appointments?", "answer": "Yes! We reserve urgent slots and can often accommodate you within 24 hours." },
+      { "question": "What financing options are available?", "answer": "We offer flexible payment plans and accept all major insurance plans. Chat with our team for details." },
+      { "question": "Is the treatment painful?", "answer": "All our treatments are designed to be pain-free. We use the latest anesthesia and comfort measures." },
+      { "question": "How long is a typical consultation?", "answer": "Your first consultation is 45 minutes, giving us time to understand your goals and create a personalized plan." }
+    ]
+  },
+  "appointment": {
+    "eyebrow": "Ready to Transform Your Smile?",
+    "title": "Book Your Free Consultation Today",
+    "intro": "Your first visit is completely obligation-free. Let's discuss your smile goals and create a personalized treatment plan.",
+    "departments": [
+      "Cosmetic Dentistry",
+      "General Dentistry",
+      "Orthodontics",
+      "Oral Surgery"
+    ],
+    "doctors": [
+      "Dr Rahul Sharma",
+      "Dr Any Available"
+    ],
+    "timeSlots": [
+      "9:00 AM",
+      "10:00 AM",
+      "11:00 AM",
+      "12:00 PM",
+      "2:00 PM",
+      "3:00 PM",
+      "4:00 PM",
+      "5:00 PM"
+    ]
+  },
+  "footer": {
+    "note": "© 2026 Dr Rahul Sharma. Transforming smiles with precision and care.",
+    "openingHours": ["Monday - Saturday: 9:00 AM - 8:00 PM", "Sunday: 10:00 AM - 5:00 PM", "Closed on Public Holidays"],
+    "quickLinks": ["About Dr Rahul", "Services", "Gallery", "Book Appointment", "Contact"],
+    "social": [
+      { "name": "Instagram", "url": "#" },
+      { "name": "Facebook", "url": "#" },
+      { "name": "Google", "url": "#" }
+    ]
+  }
+}
